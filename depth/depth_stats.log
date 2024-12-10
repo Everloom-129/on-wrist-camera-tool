@@ -1,0 +1,38 @@
+# Depth-Pro Results for Koch Robot Images
+
+Depth statistics for data/Koch_images/3.jpg:
+Min depth: 209.21m
+Max depth: 593.51m
+Mean depth: 331.82m
+Depth statistics for data/Koch_images/4.jpg:
+Min depth: 259.53m
+Max depth: 829.73m
+Mean depth: 398.47m
+Depth statistics for data/Koch_images/6.jpg:
+Min depth: 233.61m
+Max depth: 643.83m
+Mean depth: 333.52m
+Depth statistics for data/Koch_images/7.jpg:
+Min depth: 250.37m
+Max depth: 666.15m
+Mean depth: 339.41m
+Depth statistics for data/Koch_images/1.jpg:
+Min depth: 250.35m
+Max depth: 851.93m
+Mean depth: 433.94m
+Depth statistics for data/Koch_images/8.jpg:
+Min depth: 271.62m
+Max depth: 1097.48m
+Mean depth: 352.31m
+Depth statistics for data/Koch_images/2.jpg:
+Min depth: 213.63m
+Max depth: 713.20m
+Mean depth: 376.13m
+Depth statistics for data/Koch_images/5.jpg:
+Min depth: 222.91m
+Max depth: 925.73m
+Mean depth: 378.28m
+Depth statistics for data/Koch_images/9.jpg:
+Min depth: 261.60m
+Max depth: 781.87m
+Mean depth: 319.39m

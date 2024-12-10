@@ -1,0 +1,29 @@
+Depth statistics for data/iPhone_SE/3.jpg:
+Min depth: 411.28m
+Max depth: 2169.05m
+Mean depth: 1095.90m
+Depth statistics for data/iPhone_SE/4.jpg:
+Min depth: 570.01m
+Max depth: 2549.09m
+Mean depth: 1109.28m
+Depth statistics for data/iPhone_SE/6.jpg:
+Min depth: 315.82m
+Max depth: 1760.30m
+Mean depth: 661.37m
+Depth statistics for data/iPhone_SE/1.jpg:
+Min depth: 385.30m
+Max depth: 1223.75m
+Mean depth: 670.14m
+Depth statistics for data/iPhone_SE/2.jpg:
+Min depth: 456.67m
+Max depth: 1177.22m
+Mean depth: 687.27m
+Depth statistics for data/iPhone_SE/5.jpg:
+Min depth: 264.03m
+Max depth: 1099.27m
+Mean depth: 532.19m
+
+Summary of Depth Statistics:
+- Minimum Depth Range: 264.03m to 570.01m
+- Maximum Depth Range: 1099.27m to 2549.09m
+- Mean Depth Range: 532.19m to 1109.28m
