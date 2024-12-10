@@ -1,0 +1,34 @@
+Depth statistics for data/Koch_images/Koch_1210/3.jpg:
+Min depth: 271.49m
+Max depth: 4342.09m
+Mean depth: 651.31m
+Depth statistics for data/Koch_images/Koch_1210/4.jpg:
+Min depth: 676.57m
+Max depth: 4516.11m
+Mean depth: 1160.62m
+Depth statistics for data/Koch_images/Koch_1210/6.jpg:
+Min depth: 169.61m
+Max depth: 11583.68m
+Mean depth: 3014.01m
+Depth statistics for data/Koch_images/Koch_1210/7.jpg:
+Min depth: 421.11m
+Max depth: 3131.05m
+Mean depth: 682.94m
+Depth statistics for data/Koch_images/Koch_1210/1.jpg:
+Min depth: 442.10m
+Max depth: 846.59m
+Mean depth: 598.71m
+Depth statistics for data/Koch_images/Koch_1210/2.jpg:
+Min depth: 338.06m
+Max depth: 822.47m
+Mean depth: 470.77m
+Depth statistics for data/Koch_images/Koch_1210/5.jpg:
+Min depth: 671.11m
+Max depth: 2215.94m
+Mean depth: 993.32m
+
+
+Summary of Depth Statistics:
+- Minimum Depth Range: 169.61m to 676.57m
+- Maximum Depth Range: 822.47m to 11583.68m
+- Mean Depth Range: 470.77m to 3014.01m
