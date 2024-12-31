@@ -1,0 +1,49 @@
+Depth statistics for data/Franka/varied/224_varied_camera.jpg:
+Min depth: 470.92m
+Max depth: 3328.93m
+Mean depth: 1174.88m
+Depth statistics for data/Franka/varied/221_varied_camera.jpg:
+Min depth: 492.47m
+Max depth: 3775.10m
+Mean depth: 1156.76m
+Depth statistics for data/Franka/varied/212_varied_camera.jpg:
+Min depth: 442.03m
+Max depth: 3547.13m
+Mean depth: 1084.53m
+Depth statistics for data/Franka/varied/200_varied_camera.jpg:
+Min depth: 460.06m
+Max depth: 3992.36m
+Mean depth: 1160.10m
+Depth statistics for data/Franka/varied/250_varied_camera.jpg:
+Min depth: 574.99m
+Max depth: 3592.06m
+Mean depth: 1291.35m
+Depth statistics for data/Franka/varied/50_varied_camera.jpg:
+Min depth: 400.31m
+Max depth: 2828.77m
+Mean depth: 1034.09m
+Depth statistics for data/Franka/varied/90_varied_camera.jpg:
+Min depth: 575.93m
+Max depth: 4064.13m
+Mean depth: 1311.92m
+Depth statistics for data/Franka/varied/0_varied_camera.jpg:
+Min depth: 359.35m
+Max depth: 3215.80m
+Mean depth: 1090.49m
+Depth statistics for data/Franka/varied/230_varied_camera.jpg:
+Min depth: 513.42m
+Max depth: 3941.54m
+Mean depth: 1299.78m
+Depth statistics for data/Franka/varied/180_varied_camera.jpg:
+Min depth: 473.50m
+Max depth: 3704.46m
+Mean depth: 1138.00m
+Depth statistics for data/Franka/varied/25_varied_camera.jpg:
+Min depth: 480.20m
+Max depth: 3300.29m
+Mean depth: 1093.93m
+
+Summary of Depth Statistics:
+- Minimum Depth Range: 359.35mm to 575.93mm
+- Maximum Depth Range: 2828.77mm to 4064.13mm
+- Mean Depth Range: 1034.09mm to 1311.92mm

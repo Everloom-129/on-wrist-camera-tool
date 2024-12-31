@@ -1,0 +1,49 @@
+Depth statistics for data/Franka/hand/50_hand_camera.jpg:
+Min depth: 691.95m
+Max depth: 1674.00m
+Mean depth: 1093.53m
+Depth statistics for data/Franka/hand/0_hand_camera.jpg:
+Min depth: 388.22m
+Max depth: 2407.10m
+Mean depth: 842.58m
+Depth statistics for data/Franka/hand/250_hand_camera.jpg:
+Min depth: 278.79m
+Max depth: 1570.36m
+Mean depth: 808.84m
+Depth statistics for data/Franka/hand/25_hand_camera.jpg:
+Min depth: 393.20m
+Max depth: 899.73m
+Mean depth: 584.70m
+Depth statistics for data/Franka/hand/221_hand_camera.jpg:
+Min depth: 226.30m
+Max depth: 1426.98m
+Mean depth: 447.76m
+Depth statistics for data/Franka/hand/212_hand_camera.jpg:
+Min depth: 236.09m
+Max depth: 987.01m
+Mean depth: 347.63m
+Depth statistics for data/Franka/hand/230_hand_camera.jpg:
+Min depth: 297.03m
+Max depth: 1831.04m
+Mean depth: 899.60m
+Depth statistics for data/Franka/hand/90_hand_camera.jpg:
+Min depth: 480.13m
+Max depth: 1308.21m
+Mean depth: 735.68m
+Depth statistics for data/Franka/hand/180_hand_camera.jpg:
+Min depth: 356.30m
+Max depth: 1142.04m
+Mean depth: 528.02m
+Depth statistics for data/Franka/hand/224_hand_camera.jpg:
+Min depth: 263.08m
+Max depth: 1143.47m
+Mean depth: 609.98m
+Depth statistics for data/Franka/hand/200_hand_camera.jpg:
+Min depth: 309.87m
+Max depth: 1407.27m
+Mean depth: 481.69m
+
+Summary of Depth Statistics:
+- Minimum Depth Range: 226.3mm to 691.95mm
+- Maximum Depth Range: 899.73mm to 2407.1mm
+- Mean Depth Range: 347.63mm to 1093.53mm
